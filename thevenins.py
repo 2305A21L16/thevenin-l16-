@@ -1,5 +1,5 @@
 import streamlit as st
-st.title("Thevenin's Theorem")
+st.title("Thevenin's Theorem - 2305A21L16")
 
 def output(vth,rth,rl):
     il=vth/(rth+rl)
